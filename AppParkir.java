@@ -14,9 +14,9 @@ public class AppParkir {
             String plat = Obj.nextLine();
             System.out.println("1. Motor");
             System.out.println("2. Mobil");
-			      System.out.println("3. Mini Bus");
-			      System.out.println("4. Bis");
-			      System.out.println("5. Truck");
+	    System.out.println("3. Mini Bus");
+	    System.out.println("4. Bis");
+	    System.out.println("5. Truck");
             System.out.print("Pilih Jenis kendaraan	: ");
             int jeniskendaraan = Obj.nextInt();
             System.out.print("Jam Masuk	: ");
